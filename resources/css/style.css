@@ -1,0 +1,50 @@
+html{
+  font-family: Verdana;
+
+}
+
+header{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  padding-top: 24px;
+  padding-bottom: 12px;
+}
+
+body{
+  background-color: black;
+}
+
+   div, a{
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+
+}
+
+#your{
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+#excursion{
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+
+}
+
+#camp{
+  text-align: center;
+}
+
+.footer{
+  font-size: 21px;
+  color: gray;
+  text-align: right;
+
+}
