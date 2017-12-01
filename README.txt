@@ -6,4 +6,6 @@ The web page we'll build advertises a mobile app which helps users record and sh
 
 We'll work with Git and GitHub on our local machines, so if you haven't yet, refer to the articles on Command Line Interface Setup and Git Setup.
 
-A preview of the page is available here!
+Download the design mock at: https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/mocks/excursion.png and redline mock at: https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/mocks/excursion_redline.png Review these, and think about how you might implement the web page with HTML and CSS.
+
+A preview of the page is available here>: https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/index.html
