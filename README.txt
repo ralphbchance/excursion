@@ -13,3 +13,4 @@ We'll work with Git and GitHub on our local machines, so if you haven't yet, ref
 3. Review these, and think about how you might implement the web page with HTML and CSS.
 
 4. A preview of the page is available here>: https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/index.html
+ 5. This README and the repo in belong to was part of a git clone on a windows laptop today 12/1/2017. 
